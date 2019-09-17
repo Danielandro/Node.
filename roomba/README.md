@@ -13,7 +13,10 @@
 
 ## Tech stack:
 
-- Node.js
+-   Node.js
+-   Jest
+-   ESlint
+-   Prettier
 
  <!-- ## Instructions to follow in the terminal: 
  
