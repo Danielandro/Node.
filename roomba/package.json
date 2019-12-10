@@ -4,7 +4,8 @@
   "description": "Command line Robot Hoover",
   "main": "src/app.js",
   "scripts": {
-    "test": "jest --coverage"
+    "test": "jest --coverage",
+    "lint": "eslint --ext .js . --fix"
   },
   "repository": {
     "type": "git",
